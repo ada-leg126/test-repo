@@ -1,4 +1,4 @@
 # test-repo
 test repo for self-learning git
 
-lorem ipsum dolores
+lorem ipsum dolor sit amet
